@@ -1,0 +1,4 @@
+Int = Whole number
+Float/Double = decimal places
+String = “Text”
+Bool = True/False
