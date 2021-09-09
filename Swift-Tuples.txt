@@ -1,0 +1,3 @@
+Tuples: (age: Int, name: String)
+
+It is like dictionaries but when you call value you type : 0 1 2 

@@ -1,0 +1,3 @@
+Arrays = []
+
+We can say that it is a container that contains a type.

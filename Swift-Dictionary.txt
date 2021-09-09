@@ -1,0 +1,4 @@
+Dict : [String: Int] = [:]
+
+It has key and value. It is more effective way to contain information if we want to call value or key back.
+İ

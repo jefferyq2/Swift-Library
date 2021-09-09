@@ -1,0 +1,6 @@
+It has 3 forms 
+
+ as? as! = downcasting
+
+ as      = upcasting
+
