@@ -1,0 +1,2 @@
+Thanks to inheritance, we can pass all the properties of the parent class to the child class.
+If we want to change a method we can override it.
