@@ -1,0 +1,8 @@
+Enum has value of  :  rawValue
+
+enum Phone: String {
+case iphone = "iOS System"
+case samsung = "Android System"
+}
+
+İnside the string are is  * rawValue *

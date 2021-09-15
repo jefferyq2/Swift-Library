@@ -1,0 +1,11 @@
+___Communicating Patterns___
+
+1) Delegates and Protocols
+
+* (1 v 1) One View communicate with another View
+
+---------------------------------------------
+
+2) Notification and Observers
+
+* (1 v Multiple) communicating with multiple ViewControllers

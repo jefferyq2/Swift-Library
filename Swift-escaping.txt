@@ -1,0 +1,1 @@
+Use " @escaping " when the closure needs to outlive the life of its function
