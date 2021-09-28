@@ -1,0 +1,12 @@
+* Private = Aynı scope içindekilere erişim sağlayabilir.
+
+* FilePrivate = Aynı dosya içindekilere erişebilir.
+
+* Internal = (Default) Modüler bir mimari kullanıyorsak, bir framework veya package içerisindeysek sadece orda erişilebilinir.
+
+* Public = Modüller arası erişime izin verir. Modül dışından inherit edilemez. Sınıf özellikleri modül dışından OVERRIDE edilemez.
+
+* Open = Açıklığı en yüksek olan, modül dışarıdan inheritance edilebilir. Modül dışında sınıf özellikleri OVERRIDE edilebilir.
+
+
+Not = Public ve Open'ı genelde kendi pod'umuzu yapmıcaksak kullanmayız !!
