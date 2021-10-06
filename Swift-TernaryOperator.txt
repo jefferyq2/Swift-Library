@@ -1,0 +1,4 @@
+it is used for return Bool types
+
+
+value = condition ? valueIfTrue : valueIfFalse
